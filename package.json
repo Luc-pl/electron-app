@@ -6,5 +6,6 @@
     "author": "Łukasz Mijała <lukasz.mijala@gmail.com>",
     "license": "MIT",
     "dependencies": {
+        "electron": "5.0.6"
     }
-  }
+}
