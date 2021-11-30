@@ -1,0 +1,10 @@
+{
+    "name": "electron-app",
+    "version": "1.0.0",
+    "main": "app.js",
+    "repository": "https://github.com/Luc-pl/electron-app.git",
+    "author": "Łukasz Mijała <lukasz.mijala@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
